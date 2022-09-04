@@ -9,7 +9,7 @@ from contracts.libraries.math.wad_ray_math import RAY
 
 const PRANK_USER_1 = 111
 const PRANK_USER_2 = 222
-const NAME = 123
+const NAME = 'mitesh'
 const SYMBOL = 456
 const DECIMALS = 18
 const INITIAL_SUPPLY_LOW = 1000
